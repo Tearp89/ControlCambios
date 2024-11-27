@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|c:\\users\\marla\\source\\repos\\expenseit\\expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|c:\\users\\marla\\source\\repos\\expenseit\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|C:\\Users\\marla\\source\\repos\\ExpenseIt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD443C7-DEB4-4D63-85E4-18B6397A9BA4}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-06T18:43:40.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseReportPage.xaml",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeToolTip": "ExpenseReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T00:12:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseItHome.xaml",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeToolTip": "ExpenseItHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T00:08:42.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T23:57:06.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseItHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseItHome.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseItHome.xaml.cs",
+              "RelativeToolTip": "ExpenseItHome.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:36:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\ExpenseReportPage.xaml.cs",
+              "RelativeToolTip": "ExpenseReportPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:16:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T23:57:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\marla\\source\\repos\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:57:01.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
